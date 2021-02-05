@@ -3,8 +3,9 @@
     <div>
       <Logo />
       <h1 class="title">
-        Nuxt2
+        Hello la team SIMPLON
       </h1>
+      <p>Ca va ou bien ?</p>
     </div>
   </div>
 </template>
